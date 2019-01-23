@@ -1,0 +1,7 @@
+tamanho das imagens: 300px
+subtítulos: marketing digital, criação de sites e mídias sociais
+cor dos subtítulos: #F93
+tamanho inicial da caixa: 300x208
+altura da caixa aumentada: 530px
+margens entre as caixas: acima:20px, esquerda:10px
+margem do texto: 20px

@@ -1,0 +1,3 @@
+tabela com 4 linhas e 2 colunas e margem superior e inferior de 30px
+Imagens com tamanho de 200px. Ao passar o mouse, aumenta 2.5 vezes o tamanho original
+Margem da imagens: superior e inferior de 90px, esquerda e direita de 100px
